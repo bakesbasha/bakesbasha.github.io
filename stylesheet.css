@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.tabs
+{
+    overflow: hidden;
+    background-color: #303030 
+
+}
+.name
+{
+    background-color:inhert;
+    float: left;
+    outline: none;
+    cursor: pointer;
+    padding: 0px 1px;
+    border: none;
+    transition: 0.3s;
+    color:white;
+    font-size: 35px;
+
+    position: relative; 
+
+    
+
+}
+.tabs button
+{
+    background-color:inherit;
+    float: right;
+    outline: none;
+    cursor: pointer;
+    padding: 0px 25px;
+    border: none;
+    transition: 0.3s;
+    color:white;
+    font-size: 35px;
+
+    position: relative; 
+}
+
+.intro
+{
+    font-size: 40px;
+    text-align: left;
+    margin-top:40px;
+    margin-left:10px;
+    margin-right:60px;
+}
+
+body
+{
+    font-family: 'Raleway', sans-serif; font-size:22px;
+    background-color: #303030 ;
+    color:white
+}
+
