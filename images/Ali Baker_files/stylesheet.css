@@ -72,7 +72,7 @@ body
   }
   
   ul {
-    text-align: center;
+    align-content:center;
     padding: 0;
   }
   
